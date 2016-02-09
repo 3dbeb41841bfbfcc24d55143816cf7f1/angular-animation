@@ -3,8 +3,8 @@ title: ng-class & CSS animation
 type: Lesson
 duration: "1:25"
 creator:
-    name: Micah Rich
-    city: LA
+    name: Micah Rich/LA
+    edited: Marc Wright/ATL
 competencies: Front-end MV*
 ---
 
@@ -29,12 +29,6 @@ First, Angular is a super dynamic front-end framework, and one of the things you
 Second, we're going to play add some subtle animation to our style with CSS transitions. Little things like that can really boost the credibility of your design – _if_ you use it well. But you certainly can't use it well if you don't know how to use it at all so let's check it out today.
 
 ## Starter Code - Intro (5 mins)
-
-> Note: First, quickly demonstrate the solution code. Show them what we'll be adding:
-> - A nice little animation on the form
-> - Adding a class to the input when there's an error
->
-> That's it. Simple, but it's cool to see ahead of time.
 
 Now, go check out the starter code and see what we're working with. We've built a pretty basic Angular app using stuff you've mostly already seen.
 
