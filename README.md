@@ -22,7 +22,7 @@ competencies: Front-end MV*
 
 ## CSS Classes in Angular - Intro (5 mins)
 
-Today we'll be learning two things that are fun, light, and extremely useful.
+Today we'll be learning two things that are fun, light, and extremely useful. [Here's what we're gonna build.](http://marcwright.github.io/)
 
 First, Angular is a super dynamic front-end framework, and one of the things you'll do _most_ often when building a frontend is apply CSS classes to style elements on the page. Having the ability to change those styles based on _data_ is really powerful and can enable you to make some really dynamic interface designs. You certainly have the skills to do this with plain-old logic, but Angular gives us a tool built for this purpose – **ngClass**.
 
